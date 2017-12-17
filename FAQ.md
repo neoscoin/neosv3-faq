@@ -23,7 +23,7 @@
 
 * Accounts (both additional, and premium)
 * Sites (both additional, and premium)
-* Post size limits (
+* Post size limits
 * Advertising space
 
 ##### Q. What are Neos Activity Points worth?
