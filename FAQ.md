@@ -13,6 +13,14 @@
 
 ### Thank you for your efforts and contribution!
 
+##### Q. Can I mine Neos?
+
+##### A. No, Neos is Proof-of-Stake, not Proof-of-Work.
+
+##### Q. Are there any mining pools where I can use my existing miners and get paid out in Neos?
+
+##### A. Yes, www.infernopool.com is the only one we're aware of at the moment.
+
 ##### Q. Is there a whitepaper?
 
 ##### A. The whitepaper for Neos V3 will be a work in progress and maintained here on Github along with all other Neos-based resources.  Once V3 is live, focus will be more directed towards completing the whitepaper.
